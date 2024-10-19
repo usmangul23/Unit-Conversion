@@ -74,22 +74,22 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "7v3CZDtTeTRz",
-        "outputId": "9083dd83-3586-481d-a769-91be4dad3908"
+        "outputId": "fe63db18-592d-4649-dd0a-64fa1fd23ea3"
       },
-      "execution_count": null,
+      "execution_count": 4,
       "outputs": [
         {
           "output_type": "stream",
           "name": "stderr",
           "text": [
-            "2024-10-19 06:47:36.437 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-10-19 06:47:36.440 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-10-19 06:47:36.441 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-10-19 06:47:36.443 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-10-19 06:47:36.444 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-10-19 06:47:36.446 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-10-19 06:47:36.448 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-10-19 06:47:36.449 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n"
+            "2024-10-19 07:53:23.471 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-10-19 07:53:23.474 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-10-19 07:53:23.476 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-10-19 07:53:23.478 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-10-19 07:53:23.479 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-10-19 07:53:23.480 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-10-19 07:53:23.482 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-10-19 07:53:23.484 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n"
           ]
         }
       ]
