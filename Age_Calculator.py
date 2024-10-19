@@ -76,7 +76,7 @@
         "id": "7v3CZDtTeTRz",
         "outputId": "9083dd83-3586-481d-a769-91be4dad3908"
       },
-      "execution_count": null,
+      "execution_count": Nil,
       "outputs": [
         {
           "output_type": "stream",
